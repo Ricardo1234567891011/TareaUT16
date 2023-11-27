@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Muebles>
+   <Mesas>
+    <mesa1>
+      <identificador ID="M001"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="120"/>
+        <ancho unidades="centi-metros (cm)" medida="80"/>
+        <alto unidades="centi-metros (cm)" medida="75"/>
+      </dimensiones>
+      <stock cantidad="5"/>
+    </mesa1>
+    <mesa2>
+      <identificador ID="M002"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="140"/>
+        <ancho unidades="centi-metros (cm)" medida="90"/>
+        <alto unidades="centi-metros (cm)" medida="80"/>
+      </dimensiones>
+      <stock cantidad="5"/>
+    </mesa2>
+    <mesa3>
+      <identificador ID="M003"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="160"/>
+        <ancho unidades="centi-metros (cm)" medida="100"/>
+        <alto unidades="centi-metros (cm)" medida="90"/>
+      </dimensiones>
+      <stock cantidad="5"/>
+    </mesa3>
+    <mesa4>
+      <identificador ID="M004"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="180"/>
+        <ancho unidades="centi-metros (cm)" medida="120"/>
+        <alto unidades="centi-metros (cm)" medida="100"/>
+      </dimensiones>
+      <stock cantidad="5"/>
+    </mesa4>
+    <mesa5>
+      <identificador ID="M005"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="200"/>
+        <ancho unidades="centi-metros (cm)" medida="140"/>
+        <alto unidades="centi-metros (cm)" medida="110"/>
+      </dimensiones>
+      <stock cantidad="5"/>
+    </mesa5>
+  </Mesas>
+  <Sillas>
+    <silla1>
+      <identificador ID="S001"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="40"/>
+        <ancho unidades="centi-metros (cm)" medida="40"/>
+        <alto unidades="centi-metros (cm)" medida="45"/>
+      </dimensiones>
+      <stock cantidad="2"/>
+    </silla1>
+    <silla2>
+      <identificador ID="S002"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="50"/>
+        <ancho unidades="centi-metros (cm)" medida="50"/>
+        <alto unidades="centi-metros (cm)" medida="55"/>
+      </dimensiones>
+      <stock cantidad="2"/>
+    </silla2>
+  </Sillas>
+  <Armarios>
+    <armario1>
+      <identificador ID="A001"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="200"/>
+        <ancho unidades="centi-metros (cm)" medida="100"/>
+        <alto unidades="centi-metros (cm)" medida="200"/>
+      </dimensiones>
+      <stock cantidad="3"/>
+    </armario1>
+    <armario2>
+      <identificador ID="A002"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="250"/>
+        <ancho unidades="centi-metros (cm)" medida="120"/>
+        <alto unidades="centi-metros (cm)" medida="250"/>
+      </dimensiones>
+      <stock cantidad="3"/>
+    </armario2>
+  </Armarios>
+  <Camas>
+    <cama1>
+      <identificador ID="C001"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="190"/>
+        <ancho unidades="centi-metros (cm)" medida="140"/>
+        <alto unidades="centi-metros (cm)" medida="50"/>
+      </dimensiones>
+      <stock cantidad="2"/>
+    </cama1>
+    <cama2>
+      <identificador ID="C002"/>
+      <dimensiones>
+        <largo unidades="centi-metros (cm)" medida="200"/>
+        <ancho unidades="centi-metros (cm)" medida="160"/>
+        <alto unidades="centi-metros (cm)" medida="60"/>
+      </dimensiones>
+      <stock cantidad="2"/>
+    </cama2>
+   </Camas>
+</Muebles>

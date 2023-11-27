@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elecciones>
+  <Informacion>
+    <Fecha>
+    <Dia dia="18"/>
+    <Mes mes="12"/>
+    <Anio anio="2023"/>
+    </Fecha>
+    <colegios cantidad="2"/>
+    <votantes cantidad="200"/>
+  </Informacion>
+  <ColegioA>
+    <Nombre nombre="Colegio A"/>
+    <Numerodemesas cantidad="10"/>
+    <Numerodevotantes cantidad="100"/>
+    <MesaA>
+      <Numero numero="1"/>
+      <Presidente nombre="Juan" apellido="Pérez"/>
+      <Vocal1 nombre="María" apellido="López"/>
+      <Vocal2 nombre="Eduardo" apellido="Gonzalez"/>
+    </MesaA>
+    <MesaB>
+      <Numero numero="2"/>
+      <Presidente nombre="Pedro" apellido="Sanchez"/>
+      <Vocal1 nombre="Jose" apellido="Martínez"/>
+      <Vocal2 nombre="Luis" apellido="Fernández"/>
+    </MesaB>
+  </ColegioA>
+  <ColegioB>
+    <Nombre nombre="Colegio B"/>
+    <Numerodemesas cantidad="11"/>
+    <Votantes unidades="persona/s" cantidad="88"/>
+    <MesaA>
+      <Numero numero="1"/>
+      <Presidente nombre="Antonio" apellido="Rodríguez"/>
+      <Vocal1 nombre="Carmen" apellido="Gómez"/>
+      <Vocal2 nombre="David" apellido="González"/>
+    </MesaA>
+    <MesaB>
+      <Numero numero="2"/>
+      <Presidente nombre="Alberto" apellido="Feijoo"/>
+      <Vocal1 nombre="Alberto" apellido="Pérez"/>
+      <Vocal2 nombre="Carlos" apellido="López"/>
+    </MesaB>
+  </ColegioB>
+</Elecciones>
